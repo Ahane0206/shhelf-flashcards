@@ -1,0 +1,12 @@
+{
+  "format": "shhelf-deck",
+  "version": 1,
+  "name": "心臟解剖(範例)",
+  "cards": [
+    { "front": "mitral valve", "back": "二尖瓣", "note": "左心房和左心室之間" },
+    { "front": "tricuspid valve", "back": "三尖瓣", "note": "右心房和右心室之間" },
+    { "front": "chordae tendineae", "back": "腱索" },
+    { "front": "papillary muscle", "back": "乳頭肌" },
+    { "front": "sinoatrial node", "back": "竇房結", "note": "SA node,心臟的節律點" }
+  ]
+}
